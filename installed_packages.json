@@ -1,0 +1,25 @@
+{
+  "Remix": {
+    "Source": "sambow23/dxvk-remix-gmod",
+    "Version": "6d75248",
+    "ReleaseName": "3/21/26",
+    "InstalledAt": "2026-09-03T18:36:19",
+    "Branch": null
+  },
+  "Fixes": {
+    "Source": "Xenthio/garrys-mod-rtx-remixed",
+    "Version": "v0.10.0",
+    "ReleaseName": "v0.10.0",
+    "InstalledAt": "2026-09-03T18:36:19",
+    "Branch": null
+  },
+  "Patches": {
+    "Source": "sambow23/SourceRTXTweaks",
+    "Version": "main",
+    "ReleaseName": "Branch: main",
+    "InstalledAt": "2026-09-03T18:36:19",
+    "Branch": "main"
+  },
+  "IsDowngraded": false,
+  "DowngradedDepotPath": null
+}

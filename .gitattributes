@@ -1,0 +1,16 @@
+# Normalize scripts/text.
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+
+# Never diff common binary/game artifacts if they are force-added locally.
+*.dll binary
+*.exe binary
+*.vpk binary
+*.zip binary
+*.tar.gz binary
+*.dmp binary
+*.dem binary
